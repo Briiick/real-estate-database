@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/alexanderbricken/Coding/GitHub/real-estate-database/venv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
