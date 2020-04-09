@@ -1,4 +1,4 @@
-# Real Estate Database Webapp
+# Real Estate Database
 
 Alexander Bricken
 
