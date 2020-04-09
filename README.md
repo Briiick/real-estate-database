@@ -1,5 +1,9 @@
 # Real Estate Database Webapp
 
+Alexander Bricken
+
+GitHub repository: https://github.com/Briiick/real-estate-database
+
 This project was mainly coded in SQLAlchemy and uses fictitious data to emulate a real estate company relational database.
 
 ## To Run
